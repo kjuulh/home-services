@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "mealplanner-service": "git@github.com:kjuulh/MealplannerServer.git",
+    "mealplanner-client": "git@github.com:kjuulh/mealplanner.git"
+  }
+}
